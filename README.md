@@ -1,5 +1,5 @@
 # # Final Project Soal ke - 3 Function & Sorting - Math Diskrit RKA'24
-
+### Kerjakan sebelum deadline : 4 Desember 2024 pukul 23.59 WIB
 #### Deskripsi Penugasan:
 
 Anda diminta untuk membuat dan mengimplementasikan beberapa fungsi untuk mengelola dan mengatur pemain dalam permainan berbasis Python. Fungsi-fungsi yang akan dibuat mencakup pembuatan, penambahan, penghapusan, dan manipulasi status pemain dalam sebuah daftar pemain. Setiap pemain diwakili oleh sebuah dictionary yang menyimpan atribut seperti nama, skor, kesehatan, kekuatan serangan, dan status pertahanan :
