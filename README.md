@@ -68,6 +68,5 @@ Kemudian simulasikan hasil function yang sudah anda buat di dalam file `play.py`
 Untuk menjalankan unit testing (memvalidasi apakah program anda sudah sesuai atau belum) jalankan command :
 
 ```shell
-pip install unittest
 python -m unittest discover -s test -p "*.py"
 ```
